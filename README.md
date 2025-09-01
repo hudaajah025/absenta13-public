@@ -1,7 +1,7 @@
 # ABSENTA 13 - Sistem Absensi Digital Modern
 
 **Deskripsi**: Sistem Absensi Digital untuk Sekolah dengan teknologi modern  
-**Versi**: 1.3.0  
+**Versi**: 1.0.0  
 **Platform**: Web Application (React + TypeScript + Node.js)
 
 ## 📋 Fitur Utama
@@ -47,7 +47,7 @@ npm run dev
 
 6. **Buka aplikasi di browser**
 ```
-http://localhost:5173
+http://localhost:8080
 ```
 
 ## 🏗️ Struktur Project
@@ -109,12 +109,12 @@ absenta/
 ## 📞 Support
 
 Untuk bantuan dan pertanyaan:
-- Email: support@absenta13.com
+- Email: hudzsukses@gmail.com
 - GitHub Issues: [Create Issue]
 
 ## 📝 License
 
-Copyright © 2025 ABSENTA Team. All rights reserved.
+Copyright © 2025 Hudz Dev. All rights reserved.
 
 ---
 
